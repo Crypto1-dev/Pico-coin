@@ -1,0 +1,13 @@
+#use main
+#use code-taker(callid = ct)
+#use crypto
+
+#refer main
+#refer code
+
+#river $all
+
+(ct.river-crypto.call-refer.main-refer.code) + fall = codeblock:
+  codeblock.river(b3050c7d97590d0d99a7a4f010782d1705042b87c6cd700145621aa09ef06de9fc0d03e46a18ef2e15633933f05e2eb4863a10c0499507fca62d7069908a76e6f6d4c9e341679f9442585f526e2a1c9cb5de4faa84bdc17a160d11eb6c399dde6fd8f75220ff298dcaef7fcab028831cec26f9ed649ac14ac91fc6ab6dfef83c257233fe4e7220123161fd52339b8d3a5f5dc77ea8a1820a7c5415e57c6bb17e19069d74db038bef76c68d04a84780bbb9cc54445e08ba1ce2bf77c49d45763)
+
+main.end()
